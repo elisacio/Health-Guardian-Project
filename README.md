@@ -9,7 +9,7 @@ Developed as part of an academic project, Health Guardian is a digital health co
 This application is backed by academic research. The related documentation can be found in this repository:
 
 * **[Bibliographic Research](https://github.com/elisacio/Health-Guardian-Project/blob/main/Health_Guardian_bibliographie.pdf)**: A state-of-the-art review on the subject (written in French).
-* **[Abstract](https://github.com/elisacio/Health-Guardian-Project/blob/main/Abstract_Menstrual_Cycle_Prediction.pdf)**: A detailed research paper that focuses more specifically on the menstrual cycle prediction model.
+* **[Extended Abstract](https://github.com/elisacio/Health-Guardian-Project/blob/main/Abstract_Menstrual_Cycle_Prediction.pdf)**: A detailed research paper that focuses more specifically on the menstrual cycle prediction model.
 
 **[This GitHub repository](https://github.com/elisacio/Menstrual-Cycle-Prediction-Tool)** provides codebase, synthetic datasets and experiments used to build and train the menstrual cycle prediction algorithm.
 
