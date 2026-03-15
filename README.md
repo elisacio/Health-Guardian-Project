@@ -1,6 +1,6 @@
 # Health Guardian Project 
 
-Health Guardian is a digital health coach that leverages wearable technology while ensuring data sovereignty through Federated Learning (FL). While most health applications process data in isolated categories, this application cross-analyzes data from different categories. By incorporating heart rate, sleep, physical activity, and mental health data, the system produces more robust predictions, particularly for the menstrual cycle prediction on irregular ones.
+Health Guardian is a digital health coach that leverages wearable technology while ensuring data sovereignty through Federated Learning. While most health applications process data in isolated categories, this application cross-analyzes data from different categories. By incorporating heart rate, sleep, physical activity, and mental health data, the system produces more robust predictions, particularly for the menstrual cycle prediction on irregular ones.
 
 ## 🌟 Key Features
 
@@ -24,7 +24,7 @@ Our machine learning models were evaluated under both centralized and federated 
 You can test the application in two ways: by installing the pre-built APK directly on your Android device, or by building the project from the source code using Android Studio.
 
 ### Option A: Quick Installation (APK)
-1. **Download the APK:** Go to the [Releases](https://github.com/Badr696/Projet-long-AppliSante/releases/latest) page of this repository and download the `.apk` file to your Android device.
+1. **Download the APK:** Go to the [Releases](https://github.com/elisacio/Health-Guardian-Project/releases/latest) page of this repository and download the `.apk` file to your Android device.
 2. **Allow Unknown Sources:** When you tap the downloaded file, your phone may ask for permission to install unknown apps. Go to **Settings** and toggle on **Allow from this source**.
 3. **Install & Launch:** Tap **Install**, then open the Health Guardian app.
 
