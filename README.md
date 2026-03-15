@@ -7,7 +7,7 @@ Health Guardian is a digital health coach that leverages wearable technology whi
 The application integrates five health functionalities:
 * **Heart Rate:** Calculates resting heart rate and detects anomalies to help prevent potential heart issues.
 * **Physical Activity:** Predicts physical activity intensity and computes a daily physical activity score (MET) using accelerometer data.
-* **Sleep Analysis:** Identifies sleep stages automatically and determines a daily sleep score.
+* **Sleep Analysis:** Identifies sleep stages and determines a daily sleep score.
 * **Mental Health:** Estimates a stress score using heart rate variability (HRV) and uses PHQ-9 and GAD-7 questionnaires to determine depression and anxiety scores.
 * **Menstrual Cycle Tracking:** Predicts upcoming menstruations and identifies fertile windows. It leverages the cross-analysis of the metrics above to ensure robustness for irregular cycles.
 
