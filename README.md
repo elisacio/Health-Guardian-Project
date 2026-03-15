@@ -1,6 +1,20 @@
 # Health Guardian Project 
 
-Health Guardian is a digital health coach that leverages wearable technology while ensuring data sovereignty through Federated Learning. While most health applications process data in isolated categories, this application cross-analyzes data from different categories. By incorporating heart rate, sleep, physical activity, and mental health data, the system produces more robust predictions, particularly for the menstrual cycle prediction on irregular ones.
+Developed as part of an academic project, Health Guardian is a digital health coach that leverages wearable technology while ensuring data sovereignty through Federated Learning. While most health applications process data in isolated categories, this application cross-analyzes data from different categories. By incorporating heart rate, sleep, physical activity, and mental health data, the system produces more robust predictions, particularly for the menstrual cycle prediction on irregular ones.
+
+---
+
+## 📚 Documentation
+
+This application is backed by academic research. The related documentation can be found in this repository:
+
+* **[Bibliographic Research](https://github.com/elisacio/Health-Guardian-Project/blob/main/Health_Guardian_bibliographie.pdf)**: A state-of-the-art review on the subject (written in French).
+* **[Abstract](https://github.com/elisacio/Health-Guardian-Project/blob/main/Abstract_Menstrual_Cycle_Prediction.pdf)**: A detailed research paper that focuses more specifically on the menstrual cycle prediction model.
+
+**[This GitHub repository](https://github.com/elisacio/Menstrual-Cycle-Prediction-Tool)** provides codebase, synthetic datasets and experiments used to build and train the menstrual cycle prediction algorithm.
+
+
+---
 
 ## 🌟 Key Features
 
@@ -74,7 +88,6 @@ The project code is located in `app/src/main/java/com/example/applisante`.
 * `Session.kt`: Manages active user session data.
 * `UserDataBase.kt`: Local database management.
 * `Utils.kt`, `Dev.kt`: Helper functions and development tools.
-
 
 ---
 
